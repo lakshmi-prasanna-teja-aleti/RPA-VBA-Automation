@@ -1,26 +1,3 @@
-/**
- * notbot
- * https://import-this.github.io/notbot
- *
- * A fast-paced interactive puzzle game.
- *
- * Copyright (c) 2016, Vasilis Poulimenos
- * Released under the BSD 3-Clause License
- * https://github.com/import-this/notbot/blob/master/LICENSE
- *
- * Supported browsers (as suggested by online references):
- *     IE 9+, FF 3.5+, Chrome 4+, Opera 10.60+, SF 4+
- *
- * The code follows the conventions of Google JavaScript Style Guide,
- *     with some alterations. The style guide is described in depth here:
- *     https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
- * Comments follow the conventions of JSDoc. Documentation can be found here:
- *     http://usejsdoc.org/
- *
- * Date: 12/11/2016
- * @version: 1.0.0
- * @author Vasilis Poulimenos
- */
 
 /*globals jQuery */
 (function($, window) {
